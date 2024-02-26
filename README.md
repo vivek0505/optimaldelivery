@@ -1,28 +1,7 @@
 # Optimal Delivery Route System
-This is the final project for CPSC-535 Advanced Algorithms. We have developed an optimal delivery route system for finding the shortest route between multiple locations. This project uses algorithms like Nearest Neighbor, Brute Force algorithm and Minimum Spanning Tree to solve the problem.
+This is the final project for CPSC-535 Advanced Algorithms. developed an optimal delivery route system for finding the shortest route between multiple locations. This project uses algorithms like Nearest Neighbor, Brute Force algorithm and Minimum Spanning Tree to solve the problem.
 
 We have utilized the Google Maps API to calculate distances between routes and display them on the frontend. The user can add the locations and has the option to select any one of the three algorithms and get the route as the output. 
-
-## Table of Contents
-
-- [Team Members](#team-members)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Algorithms](#algorithms)
-- [Getting Your API Key](#getting-your-api-key)
-
-## Team Members
-
-- Jeet Hirakani
-- Anusha Anandhan
-- Jahanvi Palliwal
-- Vivek Deshmukh
-- Sohail Khan
-- Jenny Zhao
-- Vishnu Vardhan Reddy Yeruva
-- Abhitej Alpur 
-
-
 ## Installation
 
 To install the project, follow these steps:
