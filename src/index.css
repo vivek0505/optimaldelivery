@@ -1,0 +1,38 @@
+
+.map {
+  height: 100vh;
+  flex: 2;
+  border: 1px solid black;
+  /* margin-left: 25px; */
+} 
+
+
+.locations {
+/*    
+   height: '100px';
+   width: '100px'; */
+   margin-left: 20px;
+   flex: 1;
+   max-width: 350px;
+
+}
+
+.mainapp {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.delivery-box {
+  border: 1px solid #000;
+  padding: 10px;
+  width: 280px;
+  border-radius: 5px;
+ }
+
+ .graph {
+   /* width: 700px;
+   height: 700px; */
+    margin-left: 300px;
+ }
